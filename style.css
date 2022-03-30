@@ -1,0 +1,18 @@
+.container{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-bottom: 10%;
+}
+.head{
+    text-align: center;
+}
+.content{
+    font-weight: 400px;
+    font-size: large;
+    text-align: center;
+}
+
+.content a{
+    text-decoration: none;
+}
